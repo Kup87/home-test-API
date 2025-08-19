@@ -1,0 +1,9 @@
+# Maven build output
+target/
+
+# IDE configs (optional, if you use IntelliJ / VSCode)
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
